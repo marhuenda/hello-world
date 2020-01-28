@@ -1,4 +1,2 @@
 # hello-world
-another repository
-I am new to this
-jnjbjbjb
+another repository created to share code with my colleages and students
